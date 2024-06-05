@@ -7,4 +7,5 @@ Url of the project https://restful-booker.herokuapp.com/apidoc/index.html#api-Au
 
 Newman Report
 
-![Screenshot 2024-06-05 154140 Newman report](https://github.com/sameersingh01/API_Testing_Postman_Project/assets/121123773/7c2cfd4f-f568-40a6-8b9c-e4731b85effb)
+
+![Restful API Newman Report](https://github.com/sameersingh01/API_Testing_Postman_Project/assets/121123773/27e80d6b-8132-484b-83a0-f43a2c1d6fd4)
